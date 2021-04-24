@@ -2803,12 +2803,12 @@
 	},
 
 	"RichPresence": {
-		"Spaghet": "Cooking Spaghet",
-		"InMainMenu": "In Main Menu",
-		"CreatingPlayer": "Creating a Player",
-		"CreatingWorld": "Generating a World",
-		"PlayingSingle": "Playing Single-Player",
-		"PlayingMulti": "Playing Multi-Player"
+		"Spaghet": "Vaří Špaget",
+		"InMainMenu": "V Hlavní Nabídce",
+		"CreatingPlayer": "Vytváří Postavu",
+		"CreatingWorld": "Generuje Svět",
+		"PlayingSingle": "Hraje Hru Pro Jednoho Hráče",
+		"PlayingMulti": "Hraní Hry Pro Více Hráčů"
 	},
 
 	"AssetRejections" : {
