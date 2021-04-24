@@ -13,7 +13,7 @@ From this:
 	"UP": "UP",
 	"DOWN": "DOWN"
 ```
-To this
+To this:
 ```  
 "Key": {
 	"UP": "NAHORU",
