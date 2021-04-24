@@ -559,10 +559,10 @@
 		"RightClick": "Right Click"
 	},
 	"Social": {
-		"StatusInGame": "Playing online.",
-		"StatusJoining": "Joining game.",
-		"JoiningFriend": "Joining {0}...",
-		"Joining": "Joining..."
+		"StatusInGame": "Hraje online.",
+		"StatusJoining": "Připojuje se ke hře.",
+		"JoiningFriend": "Připojuje se {0}...",
+		"Joining": "Připojování..."
 	},
 	"Game": {
 		"Wave": "Wave: {0}",
@@ -708,11 +708,11 @@
 		"Crimstone": "Crimstone"
 	},
 	"Currency": {
-		"Platinum": "Platinum",
-		"Gold": "Gold",
-		"Silver": "Silver",
-		"Copper": "Copper",
-		"DefenderMedals": "Defender Medals"
+		"Platinum": "Platna",
+		"Gold": "Zlato",
+		"Silver": "Stříbro",
+		"Copper": "Měd",
+		"DefenderMedals": "Medaile obránce"
 	},
 	"Achievements": {
 		"ChallengerCategory": "Challenger",
@@ -1027,7 +1027,7 @@
 		"8": "{Location} of {Noun}"
 	},
 	"RandomWorldName_Adjective": {
-"Abandoned": "Abandoned",
+		"Abandoned": "Abandoned",
 		"Abhorrent": "Abhorrent",
 		"Abusive": "Abusive",
 		"Adorable": "Adorable",
@@ -2812,29 +2812,29 @@
 	},
 
 	"AssetRejections" : {
-		"BadSize": "Textures loaded must match the original size, got ({ActualWidth},{ActualHeight}) but expected ({NeededWidth}, {NeededHeight}).",
-		"BadExtension": "Only textures of type '.png' and '.xnb' may be loaded."
+		"BadSize": "Načtené textury musí odpovídat původní velikosti, vaše jsou ({ActualWidth},{ActualHeight}) ale očekávané jsou ({NeededWidth}, {NeededHeight}).",
+		"BadExtension": "Lze načíst pouze textury typu '.png' a '.xnb'."
 	},
 
 	"CreditsRollCategory_Creator": {
-	"1": "Creator",
+	"1": "Tvůrce",
 	"2": "Andrew “Redigit” Spinks",
 	},
 
 "CreditsRollCategory_ExecutiveProducer": {
-	"1": "Executive Producer",
+	"1": "Výkonný producent",
 	"2": "Whitney “Cenx” Spinks",
 	},
 
 "CreditsRollCategory_Designer": {
-	"1": "Designer",
+	"1": "Návrháři",
 	"2": "Andrew “Redigit” Spinks",
 	"3": "Whitney “Cenx” Spinks",
 	"4": "Yorai “Yoraiz0r” Omer",
 	},
 
 "CreditsRollCategory_Programming": {
-	"1": "Programming",
+	"1": "Programování",
 	"2": "Yorai “Yoraiz0r” Omer",
 	"3": "Andrew “Redigit” Spinks",
 	"4": "Chris “Skiphs” Bednarz",
@@ -2844,7 +2844,7 @@
 	},
 
 "CreditsRollCategory_Graphics": {
-	"1": "Graphics",
+	"1": "Grafika",
 	"2": "Victor “Crowno” Moura",
 	"3": "James “Lazure” Hayes",
 	"4": "Jim Tommy Myhre “Jimmarn” Kjexrud",
@@ -2857,12 +2857,12 @@
 	},
 
 "CreditsRollCategory_Music": {
-	"1": "Music",
+	"1": "Hudba",
 	"2": "Scott Lloyd Shelly",
 	},
 
 "CreditsRollCategory_Sound": {
-	"1": "Sound",
+	"1": "Zvuk",
 	"2": "Morten Lund Søegaard",
 	"3": "Jens Kiilstofte",
 	"4": "Pond5.com",
@@ -2877,7 +2877,7 @@
 	},
 
 "CreditsRollCategory_QualityAssurance": {
-	"1": "Quality Assurance",
+	"1": "Zajištění kvality",
 	"2": "Jason “Leinfors” Parker",
 	"3": "Crystal “Ghostar” Ironheart",
 	"4": "Houston “Food Barbarian” Lawson",
@@ -2886,7 +2886,7 @@
 	},
 
 "CreditsRollCategory_BusinessDevelopment": {
-	"1": "Business Development",
+	"1": "Rozvoj podnikání",
 	"2": "Ted “Loki” Murphy",
 	"3": "David “D-Town” Phelps",
 	},
@@ -2897,12 +2897,12 @@
 	},
 
 "CreditsRollCategory_PublicRelations": {
-	"1": "Public Relations",
+	"1": "Vztahy s veřejností",
 	"2": "Amanda “safeman” Powell",
 	},
 
 "CreditsRollCategory_Webmaster": {
-	"1": "Webmaster",
+	"1": "Správci webu",
 	"2": "Justin “Grumpy Squid” Coplen",
 	"3": "Chris “Skiphs” Bednarz",
 	},
@@ -2981,7 +2981,7 @@
 	},
 	
 "CreditsRollCategory_SpecialThanksto": {
-	"1": "Special Thanks to",
+	"1": "Zvláštní poděkování",
 	"2": "The Torch God",
 	"3": "Ben “Coldwin” Spaulding",
 	"4": "Kane Hart",
@@ -2997,7 +2997,7 @@
 
 
 "CreditsRollCategory_EndingNotes": {
-	"1": "Thank you for playing!",
+	"1": "Děkujeme vám za hraní!",
 	},
 
 }
