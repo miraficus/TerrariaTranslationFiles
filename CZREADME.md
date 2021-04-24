@@ -3,4 +3,4 @@
 
 # Czech Terraria Translation
 
-Přelož readmedo češtiny.
+Přelož readme do češtiny.
