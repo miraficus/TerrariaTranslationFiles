@@ -30,5 +30,9 @@ I dont know how to translate:
 
 ```
 "BadHeaderBufferOverflow": "Bad header lead to a read buffer overflow.",
+"Mediumcore": "Mediumcore",
+"Hardcore": "Hardcore",
+"ToggleBank4VacuumIsOn": "Void Pull: On",
+"ToggleBank4VacuumIsOff": "Void Pull: Off",
 ```
 in file en_US.json
