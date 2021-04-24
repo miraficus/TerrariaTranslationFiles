@@ -23,3 +23,12 @@ To this:
 ## Links
 Files extracted from terraria with: [Localization Packer](https://forums.terraria.org/index.php?threads/localization-packer-unpack-and-repack-terraria-translation-files.61972/).
 Here is official guide to make language pack: [Guide](https://forums.terraria.org/index.php?threads/the-ultimate-guide-to-content-creation-and-use-for-the-terraria-workshop.100652/#languagepack)
+
+## Issues
+
+I dont know how to translate:
+
+```
+"BadHeaderBufferOverflow": "Bad header lead to a read buffer overflow.",
+```
+in file en_US.json
