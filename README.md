@@ -34,5 +34,7 @@ I dont know how to translate:
 "Hardcore": "Hardcore",
 "ToggleBank4VacuumIsOn": "Void Pull: On",
 "ToggleBank4VacuumIsOff": "Void Pull: Off",
+
+AND FEW THINGS IN GAME UI
 ```
 in file en_US.json
