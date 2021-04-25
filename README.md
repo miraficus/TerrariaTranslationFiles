@@ -20,6 +20,10 @@ To this:
 	"DOWN": "DOLŮ"
 ```
 
+## Screenshot
+
+![Terraria Screenshot 2021 04 25 - 09 31 44 43](https://user-images.githubusercontent.com/63237821/115984792-314b3300-a5a9-11eb-84eb-69a0814f370b.png)
+
 ## Links
 Files extracted from terraria with: [Localization Packer](https://forums.terraria.org/index.php?threads/localization-packer-unpack-and-repack-terraria-translation-files.61972/).
 Here is official guide to make language pack: [Guide](https://forums.terraria.org/index.php?threads/the-ultimate-guide-to-content-creation-and-use-for-the-terraria-workshop.100652/#languagepack)
