@@ -2,7 +2,7 @@
 [![CZ](https://user-images.githubusercontent.com/63237821/79049510-6138ca00-7c24-11ea-81e2-6fe75542a453.png)](https://github.com/miraficus/CzechTerrariaTranslation/blob/master/CZREADME.md)
 
 # Terraria Translation Files
-I exported strings from Terraria so i can translate it to Czech language. Main branch should include official terrraia strings. Translated files will be in branch named Czech
+I exported strings from Terraria so i can translate it to Czech language. Main branch should include official Terrraia strings. Translated files will be in branch named Czech. I can add more branches for different languages or you can fork it and do it yourselves.
 
 ## How to
 
