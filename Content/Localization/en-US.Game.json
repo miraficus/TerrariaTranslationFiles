@@ -881,9 +881,7 @@
 		"PigPet": "Pig",
 		"ChesterPet": "Chester",
 		"AbigailMinion": "Abigail",
-		"HeartyMeal": "Hearty Meal",
-		
-
+		"HeartyMeal": "Hearty Meal"
 	},
 	"BuffDescription": {
 		"ObsidianSkin": "Immune to lava",
@@ -1213,7 +1211,7 @@
 		"PigPet": "Walking back bacon!",
 		"ChesterPet": "Otto von Chesterfield, Esquire",
 		"AbigailMinion": "Abigail will fight to protect you",
-		"HeartyMeal": "Increased Life Regeneration",
+		"HeartyMeal": "Increased Life Regeneration"
 
 	},
 	"ArmorSetBonus": {
@@ -1279,7 +1277,7 @@
 		"CrystalNinja": "Allows the ability to dash\n10% increased damage and critical strike chance",
 		"Cactus": "Attackers take damage from the cactus spines",
 		"Gladiator": "Grants immunity to knockback",
-		"ObsidianOutlaw": "Increases whip range by 50% and speed by 35%,\nIncreases minion damage by 15%",
+		"ObsidianOutlaw": "Increases whip range by 50% and speed by 35%,\nIncreases minion damage by 15%"
 	},
 	"Bestiary_Biomes": {
 		"Surface": "Surface",
@@ -1323,7 +1321,7 @@
 		"HallowIce": "Hallow Ice",
 		"CrimsonIce": "Crimson Ice",
 		"Sky": "Sky",
-		"CrimsonDesert": "Crimson Desert",
+		"CrimsonDesert": "Crimson Desert"
 	},
 	"Bestiary_Invasions": {
 		"Goblins": "Goblin Invasion",
@@ -1336,7 +1334,7 @@
 	},
 	"Bestiary_Times": {
 		"DayTime": "Daytime",
-		"NightTime": "Nighttime",
+		"NightTime": "Nighttime"
 	},
 	"Bestiary_Events": {
 		"SlimeRain": "Slime Rain",
@@ -1376,7 +1374,7 @@
 		"Sort_Defense": "Defense",
 		"Sort_Coins": "Coins",
 		"Sort_HitPoints": "HP",
-		"PercentCollected": "{Percent} Collected",
+		"PercentCollected": "{Percent} Collected"
 	},
 	"Bestiary_ItemDropConditions": {
         "PirateMap": "Drops in the Hardmode Ocean",
@@ -1480,7 +1478,7 @@
 		"biome_CrimsonIce": "These bitterly cold caverns of ice, saturated with the blood of Crimson, host a new variety of menacing frozen fiends.",
 		"biome_Sky": "It is rumored that there is a land far above the clouds, where ancient treasures are guarded by powerful winged creatures.",
 		"biome_DayTime": "After 4:30am, the sun rises in the sky and the most dangerous of beings flee from the light. It's a great time to explore!",
-		"biome_NightTime": "After 7:30pm, the moon rises in the sky. All manner of evil things, living and dead, roam the lands in the dark.",
+		"biome_NightTime": "After 7:30pm, the moon rises in the sky. All manner of evil things, living and dead, roam the lands in the dark."
 
 	},
 	"CommonBestiaryFlavor": {
@@ -1519,7 +1517,7 @@
 		"Sandshark": "In ancient times, a saltwater river once ran through the desert. These powerful creatures evolved to survive in the now dry sand.",
 		"Lamia": "By the time glowing red eyes appear in the darkness of the desert caves, it is already too late. The lamias have found their prey.",
 		"GemSquirrel": "Glistening squirrels who strayed too deep become ensorcelled with residual cursed energy retained in gemstones.",
-		"GemBunny": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance.",
+		"GemBunny": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance."
 
 	},
 	"Bestiary_FlavorText": {
@@ -2067,7 +2065,7 @@
 		"npc_EmpressButterfly": "Should one of these luminescent beings perish in the chaos of night, a sleeping tyrant is rumored to violently awaken.",
 		"npc_TorchGod": "An unseen deity responsible for a torch's eternal flicker, however easily angered by the unsightly, ungrateful abuse of torch placement.",
 		"npc_Princess": "Shy and innocent, this happy young lady sees the positive in everything, and everybody. She appreciates all of her subjects, from all walks of life.",
-		"npc_Deerclops": "Hailing from a distant land, this cyclopic monstrosity lurks in cold places, wreaking havoc on those who disturb it.",
+		"npc_Deerclops": "Hailing from a distant land, this cyclopic monstrosity lurks in cold places, wreaking havoc on those who disturb it."
 	},
 		"CreativePowers": {
 		"InfiniteItemSacrificeShortDescription": "Researching <item name> will consume it",
@@ -2175,7 +2173,7 @@
 		"2": "This is perfect chopping weather.",
 		"3": "Chop chop chop. Heh.",
 		"4": "We make a good team!",
-		"5": "Let's find a small grove and just go nuts!",
+		"5": "Let's find a small grove and just go nuts!"
 	},
 	"LucyTheAxe_Storage":
 	{
@@ -2183,7 +2181,7 @@
 		"2": "It's dark in here!",
 		"3": "Help! Get me out!",
 		"4": "There's nothing to chop in here!",
-		"5": "I'm claustrophobic!",
+		"5": "I'm claustrophobic!"
 	},
 	"LucyTheAxe_ThrownAway":
 	{
@@ -2191,13 +2189,13 @@
 		"2": "Hey! I'd never throw you away!",
 		"3": "Don't forget about me!",
 		"4": "Aren't we friends?",
-		"5": "You're abandoning me?!",
+		"5": "You're abandoning me?!"
 	},
 	"LucyTheAxe_PickedUp":
 	{
 		"1": "Oh, thank goodness!",
 		"2": "From now on we'll be inseparable.",
-		"3": "Ahh, I'm back where I belong.",
+		"3": "Ahh, I'm back where I belong."
 	},
 	"LucyTheAxe_ChoppedTree":
 	{
@@ -2210,14 +2208,14 @@
 		"7": "We did it!",
 		"8": "HaHAHA!",
 		"9": "Woooooo!",
-		"10": "YEEEESS!",
+		"10": "YEEEESS!"
 	},
 	"LucyTheAxe_GemTree":
 	{
-		"1": "So, stone trees . . . what's up with that?",
+		"1": "So, stone trees . . . what's up with that?"
 	},
 	"LucyTheAxe_ChoppedCactus":
 	{
-		"1": "When you think about it, cacti are just prickly trees!",
+		"1": "When you think about it, cacti are just prickly trees!"
 	}
 }

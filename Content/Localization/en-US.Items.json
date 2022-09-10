@@ -5273,7 +5273,7 @@
 		"PaintingWilson": "The Gentleman Scientist",
 		"PaintingWillow": "The Firestarter",
 		"PaintingWendy": "The Bereaved",
-		"PaintingWolfgang": "The Strongman",
+		"PaintingWolfgang": "The Strongman"
 
 	},
 	"ItemTooltip": {
@@ -7319,6 +7319,6 @@
 		"PaintingWilson": "{$PaintingArtist.Klei}\nAdapted by J. T. Kjexrud",
 		"PaintingWillow": "{$PaintingArtist.Klei}\nAdapted by J. T. Kjexrud",
 		"PaintingWendy": "{$PaintingArtist.Klei}\nAdapted by J. T. Kjexrud",
-		"PaintingWolfgang": "{$PaintingArtist.Klei}\nAdapted by J. T. Kjexrud",
+		"PaintingWolfgang": "{$PaintingArtist.Klei}\nAdapted by J. T. Kjexrud"
 	}
 }

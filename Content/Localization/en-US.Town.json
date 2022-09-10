@@ -821,7 +821,7 @@
 		"Pom": "Pom",
 		"Muffin": "Muffin",
 		"Maximus": "Maximus",
-		"Donald": "Donald",
+		"Donald": "Donald"
 	},
 	"BunnyNames_Dutch": {
 		"Oreo": "Oreo",
@@ -1547,7 +1547,7 @@
 		"LikeNPC": "I like {NPCName}.",
 		"LoveNPC": "I love {NPCName}.",
 		"DislikeNPC": "I dislike {NPCName}.",
-		"HateNPC": "I hate {NPCName}.",
+		"HateNPC": "I hate {NPCName}."
 	},
 	"TownNPCMood_Guide": {
 		"Content": "I'm feeling quite alright.",
@@ -1564,7 +1564,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "{NPCName} rubs me the wrong way. Maybe it's the weird clothing?",
 		"HateNPC": "I hate that {NPCName} is around. The world is fine the way it was made!",
-		"LikeNPC_Princess": "Having {NPCName} around makes me feel at ease, as though a curse was finally lifted from me.",
+		"LikeNPC_Princess": "Having {NPCName} around makes me feel at ease, as though a curse was finally lifted from me."
 	},
 	"TownNPCMood_Merchant": {
 		"Content": "I'm feeling successful! Want to buy something?",
@@ -1581,7 +1581,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "I dislike {NPCName}, too frugal and doesn't ever buy my things.",
 		"HateNPC": "I hate {NPCName}'s terrible personality!",
-		"LikeNPC_Princess": "{NPCName} could buy out my whole shop! Pleasant to talk to, as well.",
+		"LikeNPC_Princess": "{NPCName} could buy out my whole shop! Pleasant to talk to, as well."
 	},
 	"TownNPCMood_Nurse": {
 		"Content": "My vital signs are normal, if that's what you're asking.",
@@ -1598,7 +1598,7 @@
 		"LoveNPC": "What? {NPCName}? I don't have a crush! I don't! Shut up!",
 		"DislikeNPC": "I don't like {NPCName} that much, kinda weirds me out.",
 		"HateNPC": "Oh, I hate treating {NPCName}, so difficult!",
-		"LikeNPC_Princess": "I accidentally dislocated {NPCName}'s shoulder during a check-up, and she apologized to ME for the inconvenience!",
+		"LikeNPC_Princess": "I accidentally dislocated {NPCName}'s shoulder during a check-up, and she apologized to ME for the inconvenience!"
 	},
 	"TownNPCMood_Painter": {
 		"Content": "Yeah, I might be in a good mood. What's it to ya?",
@@ -1615,7 +1615,7 @@
 		"LoveNPC": "I would really love to paint {NPCName}... because of the vivid colors, of course!",
 		"DislikeNPC": "{NPCName} is just too bland for my tastes, I dislike associating with dull types.",
 		"HateNPC": "I hate being around {NPCName}.",
-		"LikeNPC_Princess": "{NPCName} commissioned me to paint a mural on the roof of her throne room!",
+		"LikeNPC_Princess": "{NPCName} commissioned me to paint a mural on the roof of her throne room!"
 	},
 	"TownNPCMood_DyeTrader": {
 		"Content": "Me? I'm fine, I'm fine.",
@@ -1632,7 +1632,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "Oh dear, that {NPCName} has no sense of color or style, I don't like.",
 		"HateNPC": "I truly, truly hate how unsavory {NPCName} can be.",
-		"LikeNPC_Princess": "The hues on {NPCName}'s dress are deeper and more vivid than I've ever seen in my entire life!",
+		"LikeNPC_Princess": "The hues on {NPCName}'s dress are deeper and more vivid than I've ever seen in my entire life!"
 	},
 	"TownNPCMood_PartyGirl": {
 		"Content": "I'm in my best party mood!",
@@ -1649,7 +1649,7 @@
 		"LoveNPC": "I love that {NPCName} always dazzles at my parties.",
 		"DislikeNPC": "I think {NPCName} is a killjoy at parties.",
 		"HateNPC": "I hate how {NPCName} always tries to shut down my after-parties. What a grump!",
-		"LikeNPC_Princess": "YES, {NPCName} loves pink and bright, glittery things, SHE LOVES TO PARTY! ",
+		"LikeNPC_Princess": "YES, {NPCName} loves pink and bright, glittery things, SHE LOVES TO PARTY! "
 	},
 	"TownNPCMood_Angler": {
 		"Content": "I'm good, now fetch me a fish!",
@@ -1666,7 +1666,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "I dislike {NPCName}.",
 		"HateNPC": "I hate {NPCName}, and anyone else who treats me like a child!",
-		"LikeNPC_Princess": "{NPCName} is not a fish, yet she doesn't annoy me! That's really cool!",
+		"LikeNPC_Princess": "{NPCName} is not a fish, yet she doesn't annoy me! That's really cool!"
 	},
 	"TownNPCMood_Stylist": {
 		"Content": "I'm feeling fresh today.",
@@ -1683,7 +1683,7 @@
 		"LoveNPC": "{NPCName} is quite the looker... so exotic... I think I'm in love...",
 		"DislikeNPC": "I tried to work on {NPCName}, but was rudely rejected, I don't like stubborn people!",
 		"HateNPC": "I hate {NPCName}, how can you literally NOT grow hair?",
-		"LikeNPC_Princess": "I can't even touch {NPCName}'s hair, it's too perfect!",
+		"LikeNPC_Princess": "I can't even touch {NPCName}'s hair, it's too perfect!"
 	},
 "TownNPCMood_Demolitionist": {
 		"Content": "Well, I don't feel like exploding today!",
@@ -1700,7 +1700,7 @@
 		"LoveNPC": "I love how well {NPCName} can handle a container of fireball!",
 		"DislikeNPC": "I wanna strap {NPCName} to a rocket and watch what happens!",
 		"HateNPC": "I hate being around {NPCName}.",
-		"LikeNPC_Princess": "WHAT... {NPCName}? Is that a new brand of nitro? Oh, HER, Yes, good lass!",
+		"LikeNPC_Princess": "WHAT... {NPCName}? Is that a new brand of nitro? Oh, HER, Yes, good lass!"
 	},
 	"TownNPCMood_Dryad": {
 		"Content": "All is peaceful, don't mess it up.",
@@ -1717,7 +1717,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "I don't like that {NPCName} has no respect for other beings.",
 		"HateNPC": "I hate {NPCName}'s destructive habits towards nature!",
-		"LikeNPC_Princess": "{NPCName} brings order and peace to everyone who lives in this world.",
+		"LikeNPC_Princess": "{NPCName} brings order and peace to everyone who lives in this world."
 	},
 	"TownNPCMood_DD2Bartender": {
 		"Content": "I'm livin' the dream.",
@@ -1734,7 +1734,7 @@
 		"LoveNPC": "{NPCName} is one crazy little drinker, I love it!",
 		"DislikeNPC": "I rather dislike {NPCName}, they put out similar vibes as some of the dark things from Etheria.",
 		"HateNPC": "{NPCName}'s eccentric and narcissistic personality really makes me want to smash a table!",
-		"LikeNPC_Princess": "{NPCName} would make a great ruler where I come from, as well.",
+		"LikeNPC_Princess": "{NPCName} would make a great ruler where I come from, as well."
 	},
 	"TownNPCMood_ArmsDealer": {
 		"Content": "I'm good, buddy!",
@@ -1751,7 +1751,7 @@
 		"LoveNPC": "Think {NPCName} ever, ya know, checks me out?",
 		"DislikeNPC": "I don't really like {NPCName} bein' on my turf, ya know?",
 		"HateNPC": "I'd REALLY like to use {NPCName} as a range target sometime.",
-		"LikeNPC_Princess": "I never would have expected it, man, but {NPCName} knows her way around a gun!",
+		"LikeNPC_Princess": "I never would have expected it, man, but {NPCName} knows her way around a gun!"
 	},
 	"TownNPCMood_GoblinTinkerer": {
 		"Content": "Feelings are currently nominal.",
@@ -1768,7 +1768,7 @@
 		"LoveNPC": "{NPCName} makes my cardiac core function improperly, it appears I love how that feels!",
 		"DislikeNPC": "I detect eerie vibes from {NPCName}, as if they contain dark secrets. I don't like the feeling.",
 		"HateNPC": "I really hate how {NPCName} humiliated me, all because male goblins cannot grow real hair!",
-		"LikeNPC_Princess": "{NPCName} likes my inventions, and says all friendly goblins are welcome!",
+		"LikeNPC_Princess": "{NPCName} likes my inventions, and says all friendly goblins are welcome!"
 	},
 	"TownNPCMood_WitchDoctor": {
 		"Content": "I embody contentedness.",
@@ -1785,7 +1785,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "I dislike the practices of {NPCName}. True healing cannot come from metal and glass.",
 		"HateNPC": "Fury fills my being as abominations sprout from tainted earth - I speak of {NPCName}.",
-		"LikeNPC_Princess": "Kind to my people, {NPCName} is. Much appreciated. ",
+		"LikeNPC_Princess": "Kind to my people, {NPCName} is. Much appreciated. "
 	},
 	"TownNPCMood_Clothier": {
 		"Content": "What's normal, anyways?",
@@ -1802,7 +1802,7 @@
 		"LoveNPC": "{NPCName}? I hadn't seen anything so delicious in my life.",
 		"DislikeNPC": "For some reason, being around {NPCName} makes me feel uneasy.",
 		"HateNPC": "I hate {NPCName} and I don't know why.",
-		"LikeNPC_Princess": "There's no greater joy than seen through the eyes of {NPCName}!",
+		"LikeNPC_Princess": "There's no greater joy than seen through the eyes of {NPCName}!"
 	},
 	"TownNPCMood_Mechanic": {
 		"Content": "Everything's working correctly - oh, me? Yeah I'm fine!",
@@ -1819,7 +1819,7 @@
 		"LoveNPC": "Umm... {NPCName} makes my heart flutter, I need to get that checked!",
 		"DislikeNPC": "I don't really like that {NPCName} won't leave me alone!",
 		"HateNPC": "I hate how {NPCName} doesn't know how to treat a woman!",
-		"LikeNPC_Princess": "{NPCName} hotwired one of my pumps, I'm super impressed!",
+		"LikeNPC_Princess": "{NPCName} hotwired one of my pumps, I'm super impressed!"
 	},
 	"TownNPCMood_TaxCollector": {
 		"Content": "What? I AM in a good mood.",
@@ -1836,7 +1836,7 @@
 		"LoveNPC": "I highly admire {NPCName}. Anyone who knows the true value of money earns my utmost respect!",
 		"DislikeNPC": "{NPCName} is just too noisy, away with them and their ilk!",
 		"HateNPC": "I loathe the very existence of {NPCName}! What kind of lunatic just gives things away for free?",
-		"LikeNPC_Princess": "{NPCName} shouldn't pay taxes, she's the princess... but she insisted.",
+		"LikeNPC_Princess": "{NPCName} shouldn't pay taxes, she's the princess... but she insisted."
 	},
 	"TownNPCMood_Pirate": {
 		"Content": "Yarr. I be in ship shape!",
@@ -1853,7 +1853,7 @@
 		"LoveNPC": "Ahoy, me takes {NPCName} under me wing, landlubber. Me love raisin' sea pups!",
 		"DislikeNPC": "Ye know me don't like that {NPCName} tries to cut me beard, I've slit scurvy throats fer less!",
 		"HateNPC": "Me want to make {NPCName} walk ye plank, sea dog! Hate the coddlin' and the dastardly smell!",
-		"LikeNPC_Princess": "Yarr, {NPCName}'d fetch a hefty reward on the seas... jus' kidding, she's me favorite lass.",
+		"LikeNPC_Princess": "Yarr, {NPCName}'d fetch a hefty reward on the seas... jus' kidding, she's me favorite lass."
 	},
 	"TownNPCMood_Wizard": {
 		"Content": "I feel magical.",
@@ -1870,7 +1870,7 @@
 		"LoveNPC": "I love that there's a lot to talk about with {NPCName}.",
 		"DislikeNPC": "{NPCName} dabbles in things that shouldn't be disturbed, and I don't like that.",
 		"HateNPC": "That loathsome {NPCName} is a complete and total abomination to magic!",
-		"LikeNPC_Princess": "{NPCName}? We have a princess? Fascinating, she seems nice.",
+		"LikeNPC_Princess": "{NPCName}? We have a princess? Fascinating, she seems nice."
 	},
 	"TownNPCMood_Steampunker": {
 		"Content": "I am jolly good.",
@@ -1887,7 +1887,7 @@
 		"LoveNPC": "I love how unique and interesting {NPCName} truly is, remarkable!",
 		"DislikeNPC": "{NPCName} is too otherworldly! I dinnae like them much.",
 		"HateNPC": "I hate being near {NPCName}.",
-		"LikeNPC_Princess": "The jolly {NPCName} volunteered to try my new teleporter, I love an enthusiastic assistant!",
+		"LikeNPC_Princess": "The jolly {NPCName} volunteered to try my new teleporter, I love an enthusiastic assistant!"
 	},
 	"TownNPCMood_Cyborg": {
 		"Content": "All neural functions appear to be operating smoothly.",
@@ -1904,7 +1904,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "{NPCName} does not comprehend my existence, for it deviates from the norm. Unusual. The negative feeling is mutual.",
 		"HateNPC": "{NPCName}'s functions cannot be scientifically analyzed. Neutral functions overloaded. Translation: I hate this.",
-		"LikeNPC_Princess": "{NPCName} analyzed: Most wholesome carbon lifeform ever recorded.",
+		"LikeNPC_Princess": "{NPCName} analyzed: Most wholesome carbon lifeform ever recorded."
 	},
 	"TownNPCMood_SantaClaus": {
 		"Content": "I am jolly!",
@@ -1921,7 +1921,7 @@
 		"LoveNPC": "I love being around {NPCName}.",
 		"DislikeNPC": "I dislike being around{NPCName}.",
 		"HateNPC": "I hate people who don't believe in me! For example, {NPCName}, the naughtiest I've ever known!",
-		"LikeNPC_Princess": "Ho ho ho, {NPCName} is most certainly on top of the nice list. ",
+		"LikeNPC_Princess": "Ho ho ho, {NPCName} is most certainly on top of the nice list. "
 	},
 	"TownNPCMood_Golfer": {
 		"Content": "I'm doing fine!",
@@ -1938,7 +1938,7 @@
 		"LoveNPC": "Unpopular opinion: I quite love having {NPCName} around. I get my water hazards returned to me!",
 		"DislikeNPC": "I dislike being around {NPCName}. Makes me feel uneasy.",
 		"HateNPC": "I hate {NPCName}'s greedy attitude. It's pretty unnecessary in a world like this.",
-		"LikeNPC_Princess": "I tried to teach {NPCName} a few slick golf tricks, but she schooled me instead! I like her.",
+		"LikeNPC_Princess": "I tried to teach {NPCName} a few slick golf tricks, but she schooled me instead! I like her."
 	},
 	"TownNPCMood_Truffle": {
 		"Content": "I am quite happy, considering.",
@@ -1955,7 +1955,7 @@
 		"LoveNPC": "I love {NPCName} for being able to talk to me without mysteriously getting hungry.",
 		"DislikeNPC": "{NPCName} has tried to eat me so many times. I swear, one time they weren't even human! I, obviously, dislike it.",
 		"HateNPC": "{NPCName} has tried to throw me into a pot filled with other unusual ingredients. I hate that.",
-		"LikeNPC_Princess": "{NPCName} doesn't try to eat me, that's good in my book.",
+		"LikeNPC_Princess": "{NPCName} doesn't try to eat me, that's good in my book."
 	},
 	"TownNPCMood_BestiaryGirl": {
 		"Content": "I'm feeling good, actually! Thanks for askin'!",
@@ -1972,7 +1972,7 @@
 		"LoveNPC": "I can't explain it. I have like, a thing for {NPCName}. Is it because of the tail?",
 		"DislikeNPC": "I don't like how cruel {NPCName} is!",
 		"HateNPC": "I really totally hate what {NPCName} does to animals!",
-		"LikeNPC_Princess": "Like, {NPCName} has her subjects searching for a way for me to break my fox curse! Yass!",
+		"LikeNPC_Princess": "Like, {NPCName} has her subjects searching for a way for me to break my fox curse! Yass!"
 	},
 	"TownNPCMood_BestiaryGirlTransformed": {
         "Content": "Rrrr... feel fine.",
@@ -1989,7 +1989,7 @@
         "LoveNPC": "LOVE. STRONG... {NPCName}. Yeeyee!",
         "DislikeNPC": "{NPCName}.... VIBES. BAD! Grrl",
         "HateNPC": "Arghl! NO {NPCName}. HATE. FURY. DISGUST!!",
-		"LikeNPC_Princess": "{NPCName}... PINK. GOOD.",
+		"LikeNPC_Princess": "{NPCName}... PINK. GOOD."
 	},
 	"TownNPCMood_Princess": {
 		"Content": "All matters are well at hand, my loyal subject!",
@@ -2034,6 +2034,6 @@
 		"LoveNPC_Princess": "{NPCName} is a little unsettling to be around, but terribly cute!",
 		"LoveNPC_TownCat": "{NPCName} is really adorable!",
 		"LoveNPC_TownDog": "{NPCName} is really adorable!",
-		"LoveNPC_TownBunny": "{NPCName} is really adorable!",
+		"LoveNPC_TownBunny": "{NPCName} is really adorable!"
 	}
 }

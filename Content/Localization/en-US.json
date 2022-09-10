@@ -137,7 +137,7 @@
 		"SetInitialMaxPlayers": "Max players (press enter for 16): ",
 		"ServerIsFull": "This server is full right now, please try again later.",
 		"WorldNameLengthTooLong": "The world name entered is too long! (Max characters: {0})",
-		"SeedLengthTooLong": "The seed entered is too long! (Max characters: {0})",
+		"SeedLengthTooLong": "The seed entered is too long! (Max characters: {0})"
 	},
 	"UI": {
 		"Effects": "Effects",
@@ -408,7 +408,7 @@
 		"TweaksDescription": "Resource packs that aim to only make minor changes to specific things.",
 
 		"OtherResourcePacks": "Other",
-		"OtherResourcePacksDescription": "Resource packs that serve another purpose, how otherworldly!",
+		"OtherResourcePacksDescription": "Resource packs that serve another purpose, how otherworldly!"
 	},
 	"Net": {
 		"ClientStatusComplete": "({0}) {1} {2}: Complete!",
@@ -441,7 +441,7 @@
 		"CannotTeleportToPylonBecauseNotEnoughNPCsAtCurrentPylon": "There are not enough villagers near the current pylon",
 		"CannotTeleportToPylonBecauseThereIsDanger": "Defeat the current threat before you can use the pylon network!",
 		"CannotTeleportToPylonBecauseNotMeetingBiomeRequirements": "This pylon is not in the correct biome to use",
-		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Ancient forces prevent you from accessing this location . . .",
+		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Ancient forces prevent you from accessing this location . . ."
 
 	},
 	"GameUI": {
@@ -552,7 +552,7 @@
 		"PotionOfReturnHomePortal": "Return Portal Entrance",
 		"Music": "Music",
 		"TorchTypeSwapperOn": "Biome torch swap on",
-		"TorchTypeSwapperOff": "Biome torch swap off",
+		"TorchTypeSwapperOff": "Biome torch swap off"
 	},
 	"Controls": {
 		"LeftClick": "Left Click",
@@ -1034,8 +1034,9 @@
 		"7": "The {Location} of {Noun}",
 		"8": "{Location} of {Noun}"
 	},
+
 	"RandomWorldName_Adjective": {
-"Abandoned": "Abandoned",
+		"Abandoned": "Abandoned",
 		"Abhorrent": "Abhorrent",
 		"Abusive": "Abusive",
 		"Adorable": "Adorable",
@@ -1647,7 +1648,7 @@
 		"Yellow": "Yellow",
 		"YOLO": "YOLO",
 		"Zany": "Zany",
-		"Zealous": "Zealous",
+		"Zealous": "Zealous"
 	},
 	"RandomWorldName_Location": {
 		"Abode": "Abode",
@@ -2826,19 +2827,19 @@
 
 	"CreditsRollCategory_Creator": {
 	"1": "Creator",
-	"2": "Andrew “Redigit” Spinks",
+	"2": "Andrew “Redigit” Spinks"
 	},
 
 "CreditsRollCategory_ExecutiveProducer": {
 	"1": "Executive Producer",
-	"2": "Whitney “Cenx” Spinks",
+	"2": "Whitney “Cenx” Spinks"
 	},
 
 "CreditsRollCategory_Designer": {
 	"1": "Designer",
 	"2": "Andrew “Redigit” Spinks",
 	"3": "Whitney “Cenx” Spinks",
-	"4": "Yorai “Yoraiz0r” Omer",
+	"4": "Yorai “Yoraiz0r” Omer"
 	},
 
 "CreditsRollCategory_Programming": {
@@ -2848,7 +2849,7 @@
 	"4": "Chris “Skiphs” Bednarz",
 	"5": "Charles “Grox” Hanrahan",
 	"6": "Jason “Leinfors” Parker",
-	"7": "Jason “Solsund” Berg",
+	"7": "Jason “Solsund” Berg"
 	},
 
 "CreditsRollCategory_Graphics": {
@@ -2861,12 +2862,12 @@
 	"7": "Finn “Tiy” Brice",
 	"8": "Aaron “AaronC” Craig",
 	"9": "Gabriel “Red Yoshi” Kiesshau",
-	"10": "Sarah “Waffles” Data",
+	"10": "Sarah “Waffles” Data"
 	},
 
 "CreditsRollCategory_Music": {
 	"1": "Music",
-	"2": "Scott Lloyd Shelly",
+	"2": "Scott Lloyd Shelly"
 	},
 
 "CreditsRollCategory_Sound": {
@@ -2874,14 +2875,14 @@
 	"2": "Morten Lund Søegaard",
 	"3": "Jens Kiilstofte",
 	"4": "Pond5.com",
-	"5": "SoundSnap.com",
+	"5": "SoundSnap.com"
 	},
 
 "CreditsRollCategory_Dialog": {
 	"1": "Dialog",
 	"2": "James “Lazure” Hayes",
 	"3": "Jeremy “Blue” Guerrette",
-	"4": "Dustin “Splugen” Gunter",
+	"4": "Dustin “Splugen” Gunter"
 	},
 
 "CreditsRollCategory_QualityAssurance": {
@@ -2890,29 +2891,29 @@
 	"3": "Crystal “Ghostar” Ironheart",
 	"4": "Houston “Food Barbarian” Lawson",
 	"5": "Olivia “Arkhayla” Cres",
-	"6": "Mike “0x33” Johnson",
+	"6": "Mike “0x33” Johnson"
 	},
 
 "CreditsRollCategory_BusinessDevelopment": {
 	"1": "Business Development",
 	"2": "Ted “Loki” Murphy",
-	"3": "David “D-Town” Phelps",
+	"3": "David “D-Town” Phelps"
 	},
 
 "CreditsRollCategory_Marketing": {
 	"1": "Marketing",
-	"2": "Ted “Loki” Murphy",
+	"2": "Ted “Loki” Murphy"
 	},
 
 "CreditsRollCategory_PublicRelations": {
 	"1": "Public Relations",
-	"2": "Amanda “safeman” Powell",
+	"2": "Amanda “safeman” Powell"
 	},
 
 "CreditsRollCategory_Webmaster": {
 	"1": "Webmaster",
 	"2": "Justin “Grumpy Squid” Coplen",
-	"3": "Chris “Skiphs” Bednarz",
+	"3": "Chris “Skiphs” Bednarz"
 	},
 
 "CreditsRollCategory_Playtesting": {
@@ -2985,7 +2986,7 @@
 	"67": "General Milky",
 	"68": "Tunnel King",
 	"69": "Chris Ness",
-	"70": "Yrimir",
+	"70": "Yrimir"
 	},
 	
 "CreditsRollCategory_SpecialThanksto": {
@@ -3000,12 +3001,12 @@
 	"9": "Lord Gaben",
 	"10": "Markus “Notch” Persson",
 	"11": "Augusta Butlin",
-	"12": "Ethan “flibitijibibo” Lee",
+	"12": "Ethan “flibitijibibo” Lee"
 	},
 
 
 "CreditsRollCategory_EndingNotes": {
-	"1": "Thank you for playing!",
+	"1": "Thank you for playing!"
 	},
 
 	"TitleLinks": {
@@ -3015,6 +3016,6 @@
 		"Twitter": "Twitter",
 		"Forums": "Forums",
 		"Merch": "Store",
-		"Wiki": "Wiki",
-	},
+		"Wiki": "Wiki"
+	}
 }
