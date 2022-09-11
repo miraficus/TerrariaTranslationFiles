@@ -4,8 +4,8 @@ Tato čeština bude nahrazovat anglický jazyk ve hře.
 ## Postup
 
 Přeloženo: 
-- Terraria.NPC: 14%
-- Terraria.Legacy: 22%
+- NPC.json: 14%
+- Legacy.json: 22%
 
 ## Screenshot
 
